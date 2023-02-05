@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# api keys
+api_keys.py
+
+.DS_Store
